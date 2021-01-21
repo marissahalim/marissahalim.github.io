@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: Designing Sports Gear for a Team
-permalink: projects/micromouse
+permalink: projects/designingSportsGearForATeam
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-11
 labels:
