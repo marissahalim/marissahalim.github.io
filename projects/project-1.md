@@ -9,7 +9,8 @@ date: 2019-03-11
 labels:
   - product design
   - working with clients
-summary: I designed and produced team sweatpants for my water polo team in high school.
+  - communication
+summary: I designed and produced shirts and sweatpants for my water polo team in high school.
 ---
 
 <div class="ui small rounded images">
