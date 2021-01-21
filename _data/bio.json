@@ -28,16 +28,14 @@
       {
         "network": "instagram",
         "username": "_marissahalim",
-        "url": "http://instagram.com/_marissahalim"
+        "url": "http://instagram.com/_marissahalim/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "video game design",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -47,6 +45,11 @@
     },
     {
       "name": "animation",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "character design",
       "keywords": [
       ]
     }
@@ -59,20 +62,24 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows 10",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
+      ]
+    },
+     {
+      "name": "Applications",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
       ]
     }
   ],
