@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: Water Polo Team Sweatpants
+title: Designing Sports Gear for a Team
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-11
