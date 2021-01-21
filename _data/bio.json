@@ -86,9 +86,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-26",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -97,69 +97,38 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Group 70, International",
+      "position": "Accounting Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-03-18",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Help the accounting department",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Input invoice data into an Excel sheet to keep track of when and what expenses were paid",
+        "File and organize all documented communication for current and future projects"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Seamsters Union",
+      "website": "https://nomoola.com/seamsters-union/",
+      "position": "Mask Assembler",
+      "startDate": "2020-07-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Make masks from upcycled products for Hawaii’s most needy population",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Cut face pieces and ties for adult and keiki masks",
+        "Organization donated over 7,000 masks to numerous organizations around the nation"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students that fall within the 3.5 GPA range or higher."
     }
   ],
   "references": [
