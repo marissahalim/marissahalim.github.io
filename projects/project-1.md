@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: 
+title: Water Polo Team Sweatpants
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-03-11
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - product design
+  - working with clients
+summary: I designed and produced team sweatpants for my water polo team in high school.
 ---
 
 <div class="ui small rounded images">
