@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-published: false
 image: images/hangman.png
 title: Hangman Game
 permalink: projects/Hangman
