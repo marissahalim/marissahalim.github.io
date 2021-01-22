@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kupu2
+image: images/kupu2.jpg
 title: Kupukupu
 permalink: projects/kupukupu
 # All dates must be YYYY-MM-DD format!
