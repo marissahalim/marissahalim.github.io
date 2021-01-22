@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/wpsquare
 title: Designing Sports Gear for a Team
 permalink: projects/designingSportsGearForATeam
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,7 @@ summary: I designed and produced shirts and sweatpants for my water polo team in
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/">
+  <img class="ui image" src="../images/wpsquare.jpg">
 </div>
 
 In my senior of high school, I was tasked with designing the team shirt and sweatpants for the Moanalua High School Water Polo team. At the time, I was a graphic design class that focused on production. In that class, I learned how to design and print stickers and decals as well as heat press and screen print designs onto clothes. 
