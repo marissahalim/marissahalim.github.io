@@ -2,18 +2,18 @@
 layout: project
 type: project
 published: false
-image: images/kupukupu.JPG
-title: Kupukupu
-permalink: projects/kupukupu
+image: images/hangman.png
+title: Hangman Game
+permalink: projects/Hangman
 # All dates must be YYYY-MM-DD format!
-date: 2020-08-10
+date: 2019-04-15
 labels:
-  - entrepreneurship
-  - business
-summary: An entrepreneurship idea about second-hand clothes and sustainability for Hacking 4 Recovery 2020.
+  - Java
+  - game development
+summary: A Hangman game I made for an assignment in my AP computer science class in high school.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/kupukupu.JPG">
+<img class="ui medium right floated rounded image" src="../images/hangman.png">
 
 Kupukupu was the name of my group in the Hacking 4 Recovery bootcamp that was hosted by UH. Our idea was to create a browser extention that would help customers find second-hand options for clothes, furniture, etc. while online shopping. The idea was to create something that combined Honey, a browser extention that helps you save money, and thredUp, a company that sells second-hand clothes in great condition. The project helped me learn how to collaborate with a group as well as how to interview someone properly.
 
