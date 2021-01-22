@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hangman.png
 title: Hangman Game
-permalink: projects/Hangman
+permalink: projects/hangman
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-15
 labels:
