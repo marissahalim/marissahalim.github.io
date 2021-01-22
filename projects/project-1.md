@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/waterpolo.jpg
+image: images/
 title: Designing Sports Gear for a Team
 permalink: projects/designingSportsGearForATeam
 # All dates must be YYYY-MM-DD format!
