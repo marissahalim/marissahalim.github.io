@@ -14,10 +14,14 @@ summary: A Hangman game I made for an assignment in my AP computer science class
 
 <img class="ui medium right floated rounded image" src="../images/hangman.png">
 
-Kupukupu was the name of my group in the Hacking 4 Recovery bootcamp that was hosted by UH. Our idea was to create a browser extention that would help customers find second-hand options for clothes, furniture, etc. while online shopping. The idea was to create something that combined Honey, a browser extention that helps you save money, and thredUp, a company that sells second-hand clothes in great condition. The project helped me learn how to collaborate with a group as well as how to interview someone properly.
+## Objective of this project
+In this assignment, we needed to create a Hangman game that allowed people to guess a random word from a predetermined array of words or play against each other. These game modes were named Random and PvP. We also needed to create visuals so that players could see the man being "drawn" if they guessed wrong. In the game, players get 8 guesses and if they make a wrong one, it is decreased by one. The picture included shows the end result if someone wins. I used BlueJ to code this project. 
 
-During the 5 day bootcamp, my team members and I interviewed more than 50 people. We first interviewed those who were close to us and nearing the end, we started interviewing strangers who we thought would be interested in our idea. As the week passed, I got more comfortable talking to strangers and I got better at promoting our idea. 
+## What I Learned
+From this assignment, I learned to get comfortable with ArrayLists and Java in general. A big thing this project taught me is coding style. I made many mistakes when coding this so making sure that there were comments for later reference was very helpful. I also learned how important it was to give proper names to variables and functions. I think I did a decent job because I can still read and understand everything after more than a year of not touching it. 
 
-In this project I gained experience with entrepreneurship, business models, and communication. Tailoring interview questions to fit our target audience taught me how to ask the right questions and the mandatory 10 interviews per day forced me to talk to others and 'sell' our idea. 
+## Improvements
+This game could definitely be improved upon. One improvement would be to fix the fact that my game does not recognize when there are multiples of the same letter in the word. For example, 'apple' has two p's and my game can only fill in one. This is a huge problem because if you chose the PvP mode and player 1 inputted 'buzzkill', the code would only be able to record 'BUZ?KIL?' and you would have to purposely lose in order to exit the console. Another improvement I would make is to make it look like an actual game. For example, I would want to have a home screen, be able to show the letters you guessed incorrectly, have the image of the man update as you played, etc. 
 
+Source code to be made available soon. 
 
