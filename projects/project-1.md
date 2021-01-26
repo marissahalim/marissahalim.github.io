@@ -11,7 +11,7 @@ labels:
   - working with clients
   - communication
   - Adobe Illustrator
-summary: I designed and produced shirts and sweatpants for my water polo team in high school.
+summary: Design and production of shirts and sweatpants for a high school water polo team.
 ---
 
 <div class="ui small rounded images">
