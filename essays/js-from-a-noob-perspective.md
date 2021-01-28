@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui large left floated rounded image" src="../images/jsBanner.jpg">
+<img src="../images/jsBanner.jpg">
 
 
 
