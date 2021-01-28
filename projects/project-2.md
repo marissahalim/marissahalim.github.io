@@ -20,6 +20,6 @@ During the 5 day bootcamp, my team members and I interviewed more than 50 people
 
 In this project I gained experience with entrepreneurship, business models, and communication. Tailoring interview questions to fit our target audience taught me how to ask the right questions and the mandatory 10 interviews per day forced me to talk to others and 'sell' our idea. I especially learned how hard it is to find a target audience when you are not sure what is the product you are trying to sell. 
 
-Below is a mockup of our idea
+To the right is the mockup of our idea which was created by one of my group members. 
 <img class="ui medium right floated rounded image" src="../images/mockup.PNG">
 
