@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium right floated rounded image" src="../images/jsBanner.jpg" width="150" heigth="150">
+<img class="ui medium right floated rounded image" src="../images/jsBanner.jpg" width="150%" heigth="150%">
 
 ## Why I am a Javascript Noob
 This is the first time I've ever touched Javascript and so far, it's been a great experience. When I first started to learn how to code (with Java), I always needed to refer to examples because I kept making sytax errors. Now that I have experience coding in different languages, I was able to pick up Javascript syntax much faster. But, since I'm a total newbie, I can only solve problems with code that works. I'm still working on learning how to code concisely and elegantly while applying language-specific features. 
