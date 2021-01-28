@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img align="center" width="675" height="330" src="../images/jsBanner.jpg">
+<img align="right" width="675" height="330" src="../images/jsBanner.jpg">
 
 
 
