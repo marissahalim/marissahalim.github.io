@@ -11,8 +11,8 @@ labels:
   - UI Frameworks
 ---
 
-Yes, I can actually code a navbar in under a minute, 39 seconds to be exact.
-<img align="center" width="675" height="330" src="../images/easyNavBar.PNG">
+Yes, I can actually code a navbar in under a minute, 39 seconds to be exact. 
+<img align="left" width="675" height="330" src="../images/easyNavBar.PNG">
 While it is not functional (adding the links for reference would take a bit more time) nor pretty, it at least *looks* like a navbar. 
 
 
