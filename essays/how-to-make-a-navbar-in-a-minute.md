@@ -19,5 +19,5 @@ If you were wondering based on the title, yes, I can actually code a navbar in u
     <a class="item">About Us</a>
   </div>
 ```
-<img align="right" width="40%" height="40%" src="../images/easyNavBar.PNG"> <br>
+<img align="center" width="40%" height="40%" src="../images/easyNavBar.PNG"> <br>
 While it is not functional (adding the links for reference would take a bit more time) nor pretty, it at least *looks* like a navbar. Since last summer, I tried to learn HTML and CSS on my own because I wanted to explore web design. During my journey, I attempted to make a navigation bar and looking back at my experience, it was just ... pure pain. 
