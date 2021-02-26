@@ -12,7 +12,7 @@ labels:
 ---
 
 Yes, I can actually code a navbar in under a minute, 39 seconds to be exact. 
-<img align="center" width="50%" height="50%" src="../images/easyNavBar.PNG"> <br>
+<img align="center" width="25%" height="25%" src="../images/easyNavBar.PNG"> <br>
 While it is not functional (adding the links for reference would take a bit more time) nor pretty, it at least *looks* like a navbar. 
 
 
