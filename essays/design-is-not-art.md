@@ -18,10 +18,10 @@ labels:
   color choice, font, etc. into those simple but impactful designs that identify a company's brand. When a brand wants a logo, they want it to fit this simple pattern:
   it must be recognizable either blown up or shrunken down, not too messy or chaotic where the viewer gets confused, able to be seen even when black or white,
   and most importantly, convey the company's unique identity. Not following this criteria could result in a logo that isn't memorable or is just unappealing. 
-  Great logo designs include 
-  Nike's swoosh <img src="https://www.clipartkey.com/mpngs/m/55-558096_svg-vector-nike-logo.png" width="302" height="162">
-  or
-  Apple's apple <img src="https://cdn-0.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png" width="139" height="162">
+  Great logo designs include  
+  Nike's swoosh <img src="https://www.clipartkey.com/mpngs/m/55-558096_svg-vector-nike-logo.png" width="302" height="162">  
+  or  
+  Apple's apple <img src="https://cdn-0.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png" width="139" height="162">  
   
   Graphic Designers always have these design patterns, or rules, in mind when creating something to solve a problem for their client. Likewise, the same idea of design 
   patterns is applied to software engineering practices. 
