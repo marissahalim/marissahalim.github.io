@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-### Is Design Art?
+# Is Design Art?
   There are going to be people who disagree with me on this but I believe that Design and Art are *not* synonomous with each other. Originally, I always thought that 
   design was art because it was aesthetically pleasing and incorporated elements of Art such as space, color, value, line, etc. However, after talking to friends
   pursuing graphic design and literally seeing the phrase "Design is not Art" all over my Instagram feed, I've learned that they are indeed different. The special 
@@ -22,6 +22,8 @@ labels:
   Nike's swoosh <img src="https://www.clipartkey.com/mpngs/m/55-558096_svg-vector-nike-logo.png" width="302" height="162">  
   or  
   Apple's apple <img src="https://cdn-0.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png" width="139" height="162">  
-  
   Graphic Designers always have these design patterns, or rules, in mind when creating something to solve a problem for their client. Likewise, the same idea of design 
   patterns is applied to software engineering practices. 
+
+# Design patterns from a SWE perspective
+  While literal design patterns in graphic design and software engineering differ, the concept is the same: design patterns can be used to solve problems. I just started learning about design patterns and the most shocking thing I learned is that I've already been using them in coding homeworks and projects
