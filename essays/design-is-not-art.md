@@ -18,12 +18,18 @@ labels:
   color choice, font, etc. into those simple but impactful designs that identify a company's brand. When a brand wants a logo, they want it to fit this simple pattern:
   it must be recognizable either blown up or shrunken down, not too messy or chaotic where the viewer gets confused, able to be seen even when black or white,
   and most importantly, convey the company's unique identity. Not following this criteria could result in a logo that isn't memorable or is just unappealing. 
-  Great logo designs include  
+  Iconic logo designs include  
   Nike's swoosh <img src="https://www.clipartkey.com/mpngs/m/55-558096_svg-vector-nike-logo.png" width="302" height="162">  
   or  
   Apple's apple <img src="https://cdn-0.idownloadblog.com/wp-content/uploads/2018/07/Apple-logo-black-and-white.png" width="139" height="162">  
   Graphic Designers always have these design patterns, or rules, in mind when creating something to solve a problem for their client. Likewise, the same idea of design 
   patterns is applied to software engineering practices. 
 
-# Design patterns from a SWE perspective
-  While literal design patterns in graphic design and software engineering differ, the concept is the same: design patterns can be used to solve problems. I just started learning about design patterns and the most shocking thing I learned is that I've already been using them in coding homeworks and projects
+# Design patterns from a SWE perspective and my experience using them
+  While actual design patterns in graphic design and software engineering differ, the concept is the same: design patterns are used to solve problems. I just started learning about design patterns and the most shocking thing I learned is that I've already been using them in coding homeworks and projects! I can finally put a name to the strategies I've been taught to incorporate into my work. The design patterns I have learned so far include Singleton, Model-View-Controller (MVC), Observer, Factory, Publish-Subscribe, Prototype, and Front Controller. Currently, I'm working on a web application called Budget Munchies with 3 other classmates and its purpose is to allow college students to create a community where they can share and keep track of healthy, affordable recipes that they want to try/have tried. After thinking about which design patterns have been applied to the project, I have concluded that Budget Munchies incorporates the Singleton and MVC design patterns. 
+  ### Singleton Design Pattern
+  
+  ### Model-View-Controller Design Pattern
+  
+  
+  
