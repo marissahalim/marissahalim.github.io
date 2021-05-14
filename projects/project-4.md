@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/BM-square.PNG
-title: Designing Sports Gear for a Team
+title: Budget Munchies Website
 permalink: projects/budgetMunchies
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-13
