@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 
 title: Design is not Art
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
