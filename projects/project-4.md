@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/wpsquare.jpg
+image: images/BM-square.PNG
 title: Designing Sports Gear for a Team
-permalink: projects/designingSportsGearForATeam
+permalink: projects/budgetMunchies
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-13
 labels:
@@ -12,11 +12,11 @@ labels:
   - Javascript
   - HTML/CSS
   - Agile Project Management
-summary: Design and production of shirts and sweatpants for a high school water polo team.
+summary: Work in a group to create a website where college students can share recipes and connect with vendors in the area.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/wpsquare.jpg">
+  <img class="ui image" src="../images/BM-homepage.jpg">
 </div>
 
 # Budget Munchies
