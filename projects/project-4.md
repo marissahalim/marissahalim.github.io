@@ -20,9 +20,9 @@ summary: Work in a group to create a website where college students can share re
 ## Objective
 For the final project of my Software Engineer I class, I worked together with three other people to create a functional website that would allow college students to share recipes in a community and connect with vendors in the university's area. Functions we included for users were the ability to add a recipe, like a recipe, view your own recipes and edit them if needed, browse through a variety of recipes posted by the community, view vendors and leave comments of their experience with them. We were given   over a month to finish creating our final project so in order to get work done, we assigned three people to work on the website and the last person to do the home page and testing. 
 
-<div class="ui small images">
+<div class="ui medium images">
   <img class="ui image" src="../images/BM-myrecipes.PNG">
-  <img class="ui image" src="../images/BM-adrecipe.PNG">
+  <img class="ui image" src="../images/BM-addrecipe.PNG">
   <img class="ui image" src="../images/BM-browse.PNG">
   <img class="ui image" src="../images/BM-vendors.PNG">
 </div>
