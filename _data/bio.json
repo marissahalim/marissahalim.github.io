@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "marissahalim",
         "url": "http://linkedin.com/in/marissalhalim"
-      },
-      {
-        "network": "instagram",
-        "username": "_marissahalim",
-        "url": "http://instagram.com/_marissahalim/"
       }
     ]
   },
@@ -44,7 +39,7 @@
       ]
     },
     {
-      "name": "character design",
+      "name": "app development",
       "keywords": [
       ]
     }
@@ -57,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Semantic UI"
       ]
     },
     {
@@ -87,6 +83,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 311 Algorithms ",
+        "ICS 314 Software Engineering I",
+        "ICS 321 Database Systems I"
       ]
     }
   ],
