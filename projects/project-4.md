@@ -15,7 +15,7 @@ labels:
 summary: Work in a group to create a website where college students can share recipes and connect with vendors in the UH Manoa area.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large centered rounded images">
   <img class="ui image" src="../images/BM-homepage.PNG">
 </div>
 
