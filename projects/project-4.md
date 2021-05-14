@@ -12,11 +12,11 @@ labels:
   - Javascript
   - HTML/CSS
   - Agile Project Management
-summary: Work in a group to create a website where college students can share recipes and connect with vendors in the area.
+summary: Work in a group to create a website where college students can share recipes and connect with vendors in the UH Manoa area.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/BM-homepage.jpg">
+  <img class="ui image" src="../images/BM-homepage.PNG">
 </div>
 
 # Budget Munchies
