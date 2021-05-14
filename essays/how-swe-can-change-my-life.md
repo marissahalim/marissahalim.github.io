@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 
 title: How Software Engineering Can Change My Life
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-20
