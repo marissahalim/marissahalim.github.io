@@ -1,0 +1,61 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "slug": "climatales",
+            "title": "ClimaTales: A Storytelling Physicalization App",
+            "description": "My Master's project in which I developed a physicalization app that allows users to interact with climate data as well as learn about Oahu's climate phenomena through stories developed by domain scientists.",
+            "image": "/images/ClimaTales.gif",
+            "link": "https://hicatlab.github.io/site/projects/Climatale.html",
+            "blog": {
+                "overview": "Full overview of the project...",
+                "role": "My role in this project...",
+                "tools": ["Unity", "Blender", "C#"],
+                "gallery": ["/images/project1a.jpg", "/images/project1b.jpg"]
+            }
+        },
+        {
+            "id": 2,
+            "slug": "dino-vr",
+            "title": "BrontoBuddies: A Dinosaur Safari VR experience",
+            "description": "A group project in which two other graduate students and I developed a VR application that allows people of all ages to travel back in time and explore the world of dinosaurs. We focused on creating an immersive educational experience where users can interact with a Brontosaurus during a safari-style expedition.",
+            "image": "/images/DinoVR.gif",
+            "link": "/projects/bronto-buddies",
+            "blog": {
+                "overview": "Full overview of the project...",
+                "role": "My role in this project...",
+                "tools": ["Unity", "Blender", "C#"],
+                "gallery": ["/images/project1a.jpg", "/images/project1b.jpg"]
+            }
+
+        },
+        {
+            "id": 3,
+            "slug": "seas-of-tmrw",
+            "title": "The Seas of Tomorrow Immersive Exhibit",
+            "description": "This is an immersive exhibit project I worked on in my time as a creative technologist intern at the NASA Godard Space Flight Center. It was developed to educate visitors about different predictions of sea level change and its impact on various levels of communities. It also provided strategies on how to navigate the future of sea level change",
+            "image": "/images/SeasOfTmrw.gif",
+            "link": "/projects/seas-of-tmrw",
+            "blog": {
+                "overview": "Full overview of the project...",
+                "role": "My role in this project...",
+                "tools": ["Unity", "Blender", "C#"],
+                "gallery": ["/images/project1a.jpg", "/images/project1b.jpg"]
+            }
+        },
+        {
+            "id": 4,
+            "slug": "waikiki-aquarium",
+            "title": "Waikiki Aquarium Papahānaumokuākea Immersive Exhibit",
+            "description": "A spatial-augmented reality exhibit for the Waikiki Aquarium that I worked on with my coworker at the LAVA lab. The goal was to create an immersive experience that showcases the beauty and diversity of the marine life in the Papahānaumokuākea Marine National Monument.",
+            "image": "/images/Aquarium.gif",
+            "link": "/projects/waikiki-aquarium",
+            "blog": {
+                "overview": "Full overview of the project...",
+                "role": "My role in this project...",
+                "tools": ["Unity", "Blender", "C#"],
+                "gallery": ["/images/project1a.jpg", "/images/project1b.jpg"]
+            }
+        }
+    ]
+}
